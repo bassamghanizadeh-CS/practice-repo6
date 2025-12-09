@@ -1,5 +1,6 @@
-﻿hello.
+﻿
 [.ShellClassInfo]
 LocalizedResourceName=@%SystemRoot%\system32\shell32.dll,-21814
 IconResource=%SystemRoot%\system32\imageres.dll,-186
+i'll be succeed.
 
